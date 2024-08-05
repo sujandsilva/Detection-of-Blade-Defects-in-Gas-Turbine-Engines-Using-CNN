@@ -10,8 +10,7 @@ Dataset: [Images of aero-engine parts with labeled defects, used for training an
 
 Methodology:
 
-Data Preprocessing: Image normalization, augmentation, and splitting into training, validation, and test sets. 
-
+Data Preprocessing: Image normalization, augmentation, and splitting into training, validation, and test sets.\n 
 Model Architecture: Design and implementation of a CNN tailored for image classification tasks.
 Training: Using labeled data to train the CNN, optimizing for accuracy and robustness.
 Evaluation: Assessing model performance using metrics like accuracy, precision, recall, and F1-score.
