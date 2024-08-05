@@ -1,0 +1,455 @@
+image_path,defect_type,x1,y1,x2,y2
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\1.jpg,0,0.544118,0.458802,0.500613,0.682074
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\10.jpg,3,0.429381,0.493368,0.176777,0.555868
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\10_flip.jpg,3,0.589920,0.498191,0.142463,0.494775
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\10_flip0.jpg,3,0.423560,0.508039,0.187806,0.506431
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\10_flip1.jpg,3,0.570925,0.491359,0.206801,0.551849
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\10_rot1.jpg,3,0.471865,0.564032,0.546624,0.224877
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\10_rot2.jpg,3,0.593137,0.492564,0.128676,0.469051
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\10_rot3.jpg,3,0.494976,0.418811,0.476286,0.185049
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11.jpg,3,0.405637,0.219453,0.431373,0.385048
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11_1.jpg,3,0.110699,0.937500,0.113347,0.113889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11_flip.jpg,3,0.585631,0.762058,0.396752,0.397106
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11_flip0.jpg,3,0.413756,0.713023,0.361213,0.213826
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11_flip1.jpg,3,0.579350,0.236937,0.403186,0.375804
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11_rot1.jpg,3,0.269092,0.563266,0.256833,0.358150
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11_rot2.jpg,3,0.562960,0.745981,0.372855,0.340032
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\11_rot3.jpg,3,0.741559,0.427849,0.308682,0.400429
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12.jpg,3,0.862132,0.288786,0.158701,0.486736
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_1.jpg,0,0.631356,0.255556,0.144068,0.138889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_1.jpg,0,0.674788,0.474306,0.118644,0.106944
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_flip.jpg,3,0.126072,0.697146,0.168199,0.518087
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_flip0.jpg,3,0.861673,0.686696,0.155944,0.533360
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_flip1.jpg,3,0.131740,0.308079,0.162990,0.503617
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_rot1.jpg,3,0.316318,0.121017,0.540193,0.145221
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_rot2.jpg,3,0.120404,0.694333,0.166054,0.514068
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\12_rot3.jpg,3,0.694333,0.862745,0.519695,0.158088
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13.jpg,3,0.801164,0.224678,0.055147,0.266881
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_1.jpg,3,0.483051,0.421528,0.059322,0.204167
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_1.jpg,0,0.466631,0.898611,0.051907,0.186111
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_2.jpg,3,0.444915,0.553472,0.063559,0.151389
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_3.jpg,0,0.530720,0.700000,0.059322,0.188889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_3.jpg,0,0.637712,0.723611,0.112288,0.163889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_4.jpg,0,0.442797,0.769444,0.008475,0.222222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_4.jpg,0,0.504767,0.886111,0.049788,0.227778
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_flip.jpg,3,0.192708,0.631833,0.068627,0.253215
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_flip0.jpg,3,0.801930,0.613545,0.062194,0.244775
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_flip1.jpg,3,0.202206,0.230908,0.056373,0.288987
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_rot1.jpg,3,0.248191,0.196998,0.284968,0.054534
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_rot2.jpg,3,0.194087,0.676648,0.062194,0.317926
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\13_rot3.jpg,3,0.770297,0.796109,0.303457,0.057904
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14.jpg,3,0.858609,0.767685,0.093444,0.264469
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_1.jpg,0,0.408369,0.744444,0.034958,0.211111
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_3.jpg,0,0.500530,0.772222,0.028602,0.058333
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_3.jpg,0,0.712394,0.581250,0.176907,0.076389
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_3.jpg,0,0.814619,0.668056,0.074153,0.077778
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_flip.jpg,3,0.132506,0.219654,0.105086,0.272106
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_flip0.jpg,3,0.860447,0.215836,0.082414,0.340836
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_flip1.jpg,3,0.133885,0.787178,0.104167,0.235129
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_rot1.jpg,3,0.776728,0.128676,0.316318,0.107230
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_rot2.jpg,3,0.130208,0.219051,0.098652,0.289389
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\14_rot3.jpg,3,0.210611,0.872396,0.307878,0.078738
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15.jpg,0,0.456342,0.453979,0.263787,0.104904
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_2.jpg,0,0.411017,0.128472,0.305085,0.248611
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_3.jpg,0,0.040254,0.413194,0.072034,0.315278
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_3.jpg,1,0.761123,0.179167,0.037076,0.050000
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_3.jpg,1,0.815148,0.222222,0.043432,0.047222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_flip.jpg,0,0.548100,0.533360,0.254289,0.122186
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_flip0.jpg,0,0.459559,0.498794,0.266544,0.230707
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_flip1.jpg,0,0.528339,0.472267,0.249694,0.158360
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_rot1.jpg,0,0.470257,0.527114,0.193730,0.255208
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_rot2.jpg,0,0.541207,0.530346,0.249694,0.137058
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\15_rot3.jpg,0,0.536174,0.458487,0.189711,0.269914
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\16.jpg,0,0.721661,0.195740,0.412071,0.338424
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\16_flip.jpg,0,0.260417,0.795217,0.352941,0.330788
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\16_flip0.jpg,0,0.727941,0.789791,0.351716,0.329582
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\16_flip1.jpg,0,0.272672,0.216037,0.338848,0.276125
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\16_rot1.jpg,0,0.222468,0.277267,0.266479,0.368260
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\16_rot2.jpg,0,0.259804,0.790394,0.382966,0.325965
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\16_rot3.jpg,0,0.797227,0.728860,0.294614,0.411152
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17.jpg,0,0.532322,0.486535,0.200061,0.147508
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17.jpg,3,0.810662,0.887862,0.086397,0.082797
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_3.jpg,0,0.036547,0.939583,0.062500,0.112500
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_flip.jpg,0,0.479320,0.534968,0.193321,0.103698
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_flip.jpg,3,0.183670,0.102894,0.071385,0.052251
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_flip0.jpg,0,0.527267,0.522106,0.214461,0.153537
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_flip0.jpg,3,0.814645,0.104904,0.072304,0.080386
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_flip1.jpg,3,0.178462,0.888465,0.085478,0.067122
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_flip1.jpg,0,0.501379,0.481913,0.214154,0.115756
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_rot1.jpg,3,0.891680,0.177543,0.077572,0.079963
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_rot1.jpg,0,0.483320,0.483762,0.139469,0.236520
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_rot2.jpg,0,0.475643,0.535169,0.185355,0.129823
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_rot2.jpg,3,0.186428,0.102492,0.083027,0.068328
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_rot3.jpg,3,0.100482,0.820312,0.098071,0.087929
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\17_rot3.jpg,0,0.518690,0.532782,0.133842,0.214461
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18.jpg,0,0.534161,0.730707,0.430453,0.429260
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18.jpg,0,0.742647,0.443931,0.436887,0.303457
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_flip.jpg,0,0.249694,0.552452,0.435662,0.291399
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_flip.jpg,0,0.462163,0.261254,0.393076,0.405145
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_flip0.jpg,0,0.509498,0.286777,0.305147,0.285772
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_flip0.jpg,0,0.748009,0.553055,0.435355,0.309486
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_flip1.jpg,0,0.257353,0.453577,0.430760,0.296222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_flip1.jpg,0,0.463388,0.744172,0.397365,0.375804
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_rot1.jpg,0,0.441720,0.250000,0.285370,0.414828
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_rot1.jpg,0,0.784968,0.429841,0.320740,0.349877
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_rot2.jpg,0,0.453431,0.260450,0.395221,0.394695
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_rot2.jpg,0,0.248009,0.548633,0.424326,0.289389
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_rot3.jpg,0,0.273111,0.525735,0.276929,0.343137
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\18_rot3.jpg,0,0.557074,0.739430,0.290997,0.437806
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19.jpg,0,0.567555,0.656551,0.374694,0.387058
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19.jpg,2,0.175398,0.363746,0.054841,0.101286
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19.jpg,2,0.458793,0.080989,0.031556,0.047026
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip.jpg,0,0.446538,0.338424,0.348346,0.338424
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip.jpg,2,0.829963,0.625402,0.045343,0.064309
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip.jpg,2,0.535999,0.921624,0.031556,0.047428
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip0.jpg,0,0.552696,0.337822,0.342525,0.351688
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip0.jpg,2,0.170037,0.624196,0.057598,0.083601
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip0.jpg,2,0.467678,0.920820,0.028493,0.048232
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip1.jpg,2,0.826746,0.367162,0.051777,0.075965
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip1.jpg,2,0.537837,0.075764,0.035233,0.034164
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_flip1.jpg,0,0.420343,0.633039,0.389093,0.409164
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot1.jpg,2,0.079582,0.535846,0.043408,0.030637
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot1.jpg,2,0.369574,0.826746,0.078376,0.059130
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot1.jpg,0,0.632637,0.426777,0.419614,0.365196
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot2.jpg,0,0.431679,0.366359,0.400123,0.402331
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot2.jpg,2,0.824449,0.627613,0.050858,0.062299
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot2.jpg,2,0.537224,0.921624,0.033395,0.035370
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot3.jpg,0,0.368971,0.581955,0.422830,0.382047
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot3.jpg,2,0.627412,0.170956,0.068328,0.053309
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\19_rot3.jpg,2,0.914188,0.458333,0.054260,0.037990
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\1_flip.jpg,0,0.496324,0.580386,0.387868,0.582797
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\1_flip0.jpg,0,0.477635,0.557677,0.341912,0.625804
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\1_flip1.jpg,0,0.491422,0.432677,0.344975,0.554260
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\1_rot1.jpg,0,0.407154,0.503676,0.438907,0.420343
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\1_rot2.jpg,0,0.503064,0.593850,0.425858,0.563907
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\1_rot3.jpg,0,0.606310,0.477788,0.457797,0.355086
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2.jpg,0,0.600490,0.667605,0.184436,0.172830
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20.jpg,2,0.094363,0.589831,0.043505,0.052653
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20.jpg,2,0.278339,0.321141,0.069547,0.049839
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20.jpg,0,0.661918,0.616559,0.203125,0.484727
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-24-749.jpg,0,0.308908,0.696621,0.045977,0.043134
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-24-749.jpg,1,0.380029,0.677570,0.045977,0.042416
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-24-749.jpg,0,0.329382,0.602085,0.069684,0.058231
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-33-675.jpg,1,0.289511,0.685478,0.050287,0.052480
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-33-675.jpg,1,0.366020,0.670022,0.055316,0.054637
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-33-675.jpg,1,0.406609,0.677211,0.037356,0.035945
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-37-637.jpg,1,0.275144,0.671819,0.058908,0.055356
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-37-637.jpg,1,0.358477,0.661035,0.050287,0.053918
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-37-637.jpg,1,0.418103,0.644141,0.045977,0.043134
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-40-910.jpg,1,0.270474,0.657441,0.048132,0.046729
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-30-40-910.jpg,1,0.352011,0.649892,0.050287,0.057513
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-07-258.jpg,1,0.456178,0.341481,0.048851,0.047448
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-09-690.jpg,1,0.468032,0.342919,0.058190,0.057513
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-09-690.jpg,1,0.475934,0.415888,0.045259,0.042416
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-09-690.jpg,0,0.544899,0.575485,0.145833,0.078361
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-09-690.jpg,0,0.586207,0.335370,0.071839,0.071172
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-09-690.jpg,0,0.512213,0.452912,0.113506,0.047448
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-13-975.jpg,1,0.486710,0.337168,0.052443,0.054637
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-13-975.jpg,1,0.475216,0.413372,0.045259,0.040259
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-13-975.jpg,1,0.461925,0.448598,0.038793,0.043134
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-26-828.jpg,2,0.469109,0.444285,0.238506,0.237239
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-45-823.jpg,2,0.474856,0.435298,0.218391,0.213515
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-31-45-823.jpg,2,0.578664,0.203451,0.071121,0.090582
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-00-111.jpg,2,0.396552,0.413012,0.211207,0.246585
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-02-398.jpg,2,0.422414,0.426671,0.195402,0.202013
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-04-715.jpg,2,0.417026,0.427031,0.191810,0.201294
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-17-764.jpg,0,0.415948,0.670381,0.063218,0.084112
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-17-764.jpg,0,0.510057,0.503235,0.114943,0.129403
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-17-764.jpg,0,0.469109,0.586269,0.169540,0.166068
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-21-902.jpg,0,0.508261,0.518332,0.119971,0.122214
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-21-902.jpg,0,0.464799,0.556434,0.140805,0.136592
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-21-902.jpg,0,0.460489,0.665708,0.198276,0.113587
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-21-902.jpg,0,0.394397,0.681165,0.081897,0.098490
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-21-902.jpg,0,0.462284,0.682962,0.061063,0.089145
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-32-53-240.jpg,0,0.582974,0.298706,0.092672,0.130122
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-33-13-656.jpg,0,0.437141,0.630122,0.125718,0.085550
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-33-39-124.jpg,0,0.503592,0.545651,0.110632,0.123652
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-33-44-157.jpg,0,0.554598,0.544932,0.083333,0.076204
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-05-922.jpg,0,0.609195,0.725737,0.076149,0.081237
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-05-922.jpg,1,0.448276,0.346513,0.056034,0.056075
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-05-922.jpg,1,0.424928,0.635155,0.062500,0.068296
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-27-610.jpg,1,0.296336,0.687994,0.056753,0.060388
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-27-610.jpg,1,0.372486,0.672897,0.051006,0.051761
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-27-610.jpg,1,0.673491,0.619698,0.040948,0.048886
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-27-610.jpg,0,0.325072,0.598131,0.059626,0.053199
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-32-225.jpg,1,0.284124,0.678648,0.055316,0.054637
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-32-225.jpg,1,0.366020,0.671459,0.043822,0.044572
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-37-457.jpg,1,0.270115,0.654206,0.071839,0.063264
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-37-457.jpg,1,0.349856,0.652408,0.050287,0.048167
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-37-457.jpg,1,0.372126,0.576564,0.043103,0.043134
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-41-053.jpg,1,0.272629,0.644860,0.048132,0.047448
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-41-053.jpg,1,0.349497,0.649533,0.043822,0.038102
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-57-663.jpg,0,0.478089,0.338965,0.135776,0.097052
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-34-57-663.jpg,2,0.474138,0.436377,0.231322,0.221423
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-13-751.jpg,2,0.415230,0.432423,0.178161,0.275341
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-18-940.jpg,2,0.432830,0.441409,0.216236,0.289001
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-23-141.jpg,2,0.396193,0.421639,0.163075,0.286844
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-26-447.jpg,2,0.437859,0.422717,0.171695,0.293314
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-32-937.jpg,2,0.427443,0.437455,0.159483,0.282531
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-39-768.jpg,0,0.357040,0.292955,0.091954,0.127247
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-43-684.jpg,0,0.387213,0.298347,0.089080,0.127965
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-43-684.jpg,0,0.485273,0.496405,0.101293,0.107117
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-43-684.jpg,0,0.446839,0.588066,0.129310,0.116463
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-43-684.jpg,0,0.537716,0.635514,0.068247,0.073329
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-46-600.jpg,0,0.513290,0.503235,0.109914,0.126528
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-46-600.jpg,0,0.436782,0.533429,0.107759,0.109274
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-46-600.jpg,0,0.533405,0.645938,0.082615,0.105679
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-46-600.jpg,0,0.409842,0.680446,0.072557,0.094177
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-46-600.jpg,0,0.471983,0.684400,0.067529,0.086269
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.528376,0.512940,0.098420,0.112868
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.491739,0.542775,0.084052,0.090582
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.452945,0.566139,0.091236,0.097052
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.538793,0.667146,0.054598,0.057513
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.497126,0.673976,0.045977,0.068296
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.457615,0.694464,0.051724,0.066139
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.414152,0.714594,0.058190,0.063264
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-35-49-241.jpg,0,0.389368,0.599569,0.056034,0.064702
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-00-648.jpg,0,0.570043,0.296190,0.079741,0.100647
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-00-648.jpg,1,0.577945,0.415528,0.035201,0.034508
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-03-068.jpg,0,0.582974,0.298347,0.076868,0.110712
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-11-713.jpg,0,0.445043,0.624371,0.114224,0.079799
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-11-713.jpg,0,0.449353,0.531991,0.075431,0.061826
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-23-269.jpg,0,0.497486,0.540259,0.051006,0.066858
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-23-269.jpg,0,0.518319,0.502516,0.042385,0.053199
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-23-269.jpg,0,0.434626,0.531632,0.058908,0.071172
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-28-464.jpg,0,0.556034,0.542056,0.070402,0.063264
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-28-464.jpg,0,0.473420,0.506830,0.050287,0.046010
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-28-464.jpg,0,0.430316,0.429907,0.080460,0.070453
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-30-341.jpg,0,0.556034,0.544213,0.086207,0.071891
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2023-04-06 19-36-30-341.jpg,0,0.470187,0.506830,0.075431,0.061826
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip.jpg,0,0.334865,0.388867,0.194240,0.481109
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip.jpg,2,0.712776,0.675844,0.060355,0.055868
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip.jpg,2,0.905790,0.405346,0.026042,0.058280
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip0.jpg,0,0.665901,0.385651,0.189032,0.473875
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip0.jpg,2,0.095435,0.404341,0.023591,0.053055
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip0.jpg,2,0.286305,0.672227,0.063419,0.051849
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip1.jpg,0,0.371783,0.615756,0.269301,0.483923
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip1.jpg,2,0.715686,0.319735,0.058211,0.062299
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_flip1.jpg,2,0.902114,0.591238,0.026042,0.049839
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot1.jpg,0,0.623392,0.335938,0.491961,0.185968
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot1.jpg,2,0.314912,0.715074,0.055064,0.054534
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot1.jpg,2,0.588023,0.901961,0.057878,0.028799
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot2.jpg,0,0.331955,0.381833,0.193321,0.469453
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot2.jpg,2,0.708640,0.674035,0.055760,0.055466
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot2.jpg,2,0.902114,0.405547,0.021140,0.044212
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot3.jpg,2,0.402130,0.090533,0.055868,0.034620
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot3.jpg,2,0.680667,0.285386,0.057476,0.056679
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\20_rot3.jpg,0,0.405547,0.665135,0.520900,0.198529
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\21.jpg,3,0.524050,0.700764,0.295037,0.296222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\21_flip.jpg,3,0.467371,0.304461,0.306066,0.276929
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\21_flip0.jpg,3,0.537377,0.308883,0.303309,0.337219
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\21_flip1.jpg,3,0.450214,0.684486,0.333640,0.299839
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\21_rot1.jpg,3,0.695539,0.462010,0.314711,0.330270
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\21_rot2.jpg,3,0.473192,0.302050,0.292586,0.272106
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\21_rot3.jpg,3,0.307275,0.528646,0.313907,0.304841
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\22.jpg,3,0.488664,0.225884,0.325368,0.438907
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\22_flip.jpg,3,0.502604,0.765072,0.293811,0.457797
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\22_flip0.jpg,3,0.487592,0.765675,0.300551,0.437299
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\22_flip1.jpg,3,0.507353,0.229100,0.295343,0.448553
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\22_rot1.jpg,3,0.252010,0.496324,0.471061,0.316176
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\22_rot2.jpg,3,0.500000,0.758842,0.321078,0.460611
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\22_rot3.jpg,3,0.775924,0.493413,0.410370,0.323836
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\23.jpg,3,0.549939,0.785169,0.404412,0.398312
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\23_flip.jpg,3,0.439491,0.218850,0.391238,0.355707
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\23_flip0.jpg,3,0.567555,0.173432,0.415748,0.317926
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\23_flip1.jpg,3,0.427543,0.789389,0.413909,0.343248
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\23_rot1.jpg,3,0.798633,0.425398,0.335209,0.432904
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\23_rot2.jpg,3,0.425551,0.212621,0.403186,0.359325
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\23_rot3.jpg,3,0.185289,0.558364,0.331994,0.417586
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\24.jpg,3,0.890931,0.247789,0.097426,0.315514
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\24_flip.jpg,3,0.097120,0.696141,0.113358,0.403537
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\24_flip0.jpg,3,0.887714,0.736937,0.081801,0.299437
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\24_flip1.jpg,3,0.110907,0.252814,0.098039,0.295820
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\24_rot1.jpg,3,0.239952,0.104167,0.320740,0.107230
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\24_rot2.jpg,3,0.103860,0.693931,0.130515,0.407958
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\24_rot3.jpg,3,0.736736,0.888480,0.318328,0.107843
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\25.jpg,0,0.321232,0.312098,0.227635,0.178859
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\25_flip.jpg,0,0.693781,0.682275,0.224571,0.187701
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\25_flip0.jpg,0,0.308058,0.679260,0.225797,0.198553
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\25_flip1.jpg,0,0.687500,0.318127,0.210172,0.169212
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\25_rot1.jpg,0,0.323955,0.689491,0.200161,0.224571
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\25_rot2.jpg,0,0.691636,0.682074,0.219669,0.187299
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\25_rot3.jpg,0,0.675040,0.306985,0.194936,0.229167
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26.jpg,0,0.337010,0.395900,0.158701,0.163183
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26.jpg,0,0.562960,0.921624,0.290135,0.137460
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_flip.jpg,0,0.437347,0.068730,0.288909,0.101286
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_flip.jpg,0,0.668811,0.596061,0.170343,0.159968
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_flip0.jpg,0,0.329350,0.605105,0.164216,0.165193
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_flip0.jpg,0,0.558824,0.075563,0.312500,0.148714
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_flip1.jpg,0,0.664828,0.397307,0.156863,0.154743
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_flip1.jpg,0,0.436581,0.921021,0.300858,0.143489
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_rot1.jpg,0,0.398513,0.666513,0.165997,0.165135
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_rot1.jpg,0,0.922428,0.437040,0.139068,0.323223
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_rot2.jpg,0,0.436581,0.067725,0.295343,0.128215
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_rot2.jpg,0,0.673560,0.602291,0.168811,0.166801
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_rot3.jpg,0,0.601085,0.336857,0.164389,0.165135
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\26_rot3.jpg,0,0.087822,0.568934,0.174035,0.299020
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2_flip.jpg,0,0.415288,0.324156,0.184130,0.150723
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2_flip0.jpg,0,0.596048,0.315916,0.136336,0.167203
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2_flip1.jpg,0,0.390165,0.671825,0.135723,0.223071
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2_rot1.jpg,0,0.662781,0.406097,0.124598,0.154718
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2_rot2.jpg,0,0.424173,0.334204,0.217831,0.152331
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\2_rot3.jpg,0,0.322548,0.590993,0.152331,0.158088
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3.jpg,0,0.336091,0.492765,0.243873,0.245177
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3.jpg,0,0.559589,0.510852,0.279105,0.405145
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_1.jpg,0,0.234722,0.229630,0.382407,0.118519
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_1.jpg,0,0.351852,0.036111,0.374074,0.055556
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_2.jpg,0,0.618519,0.185648,0.220370,0.191667
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_2.jpg,0,0.668981,0.424537,0.162037,0.167593
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_flip.jpg,0,0.449602,0.503014,0.289522,0.373392
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_flip.jpg,0,0.643995,0.485932,0.261029,0.277331
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_flip0.jpg,0,0.320925,0.503416,0.201287,0.239952
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_flip0.jpg,0,0.559743,0.468047,0.231005,0.374196
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_flip1.jpg,0,0.441942,0.516881,0.231311,0.384244
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_flip1.jpg,0,0.674173,0.495579,0.276654,0.241158
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_rot1.jpg,0,0.514871,0.442862,0.351286,0.249081
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_rot1.jpg,0,0.505627,0.670803,0.219453,0.234988
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_rot2.jpg,0,0.439032,0.488143,0.254902,0.362942
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_rot2.jpg,0,0.643842,0.491359,0.260110,0.269695
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_rot3.jpg,0,0.519695,0.315870,0.200161,0.211397
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\3_rot3.jpg,0,0.485932,0.557445,0.349678,0.247855
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4.jpg,0,0.560662,0.336214,0.197304,0.465836
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4.jpg,0,0.747243,0.336214,0.138480,0.392685
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_3.jpg,0,0.241176,0.126471,0.258824,0.076471
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_flip.jpg,0,0.249694,0.659968,0.143995,0.387460
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_flip.jpg,0,0.436734,0.614751,0.194547,0.336415
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_flip0.jpg,0,0.557904,0.642484,0.164828,0.387862
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_flip0.jpg,0,0.750460,0.648312,0.133272,0.381029
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_flip1.jpg,0,0.247549,0.349879,0.118873,0.388666
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_flip1.jpg,0,0.430300,0.377613,0.200674,0.340434
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_rot1.jpg,0,0.341238,0.241881,0.389068,0.124694
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_rot1.jpg,0,0.373593,0.428462,0.354100,0.206801
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_rot2.jpg,0,0.252451,0.661777,0.141544,0.391077
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_rot2.jpg,0,0.436734,0.610129,0.187194,0.339228
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_rot3.jpg,0,0.640876,0.554075,0.388666,0.174326
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\4_rot3.jpg,0,0.656350,0.741115,0.381029,0.120098
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5.jpg,0,0.849877,0.152934,0.287990,0.218248
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5.jpg,0,0.736060,0.533762,0.461091,0.432476
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_1.jpg,3,0.370233,0.545139,0.060381,0.190278
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_2.jpg,3,0.355932,0.668750,0.076271,0.087500
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_flip.jpg,0,0.252757,0.456391,0.462010,0.445740
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_flip.jpg,0,0.145680,0.857315,0.287071,0.182476
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_flip0.jpg,0,0.740656,0.455185,0.433517,0.440916
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_flip0.jpg,0,0.848499,0.847066,0.292586,0.144293
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_flip1.jpg,0,0.147518,0.139670,0.283395,0.161977
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_flip1.jpg,0,0.264553,0.579783,0.452512,0.362942
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_rot1.jpg,0,0.123191,0.150123,0.122588,0.281863
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_rot1.jpg,0,0.637862,0.276195,0.345659,0.507659
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_rot2.jpg,0,0.262102,0.408762,0.478860,0.349678
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_rot2.jpg,0,0.142616,0.857918,0.276654,0.182074
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_rot3.jpg,0,0.406350,0.734835,0.344051,0.488051
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\5_rot3.jpg,0,0.861133,0.844056,0.163585,0.293505
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6.jpg,0,0.484681,0.540193,0.273897,0.216238
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_2.jpg,3,0.396186,0.369444,0.042373,0.138889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_2.jpg,0,0.418432,0.880556,0.040254,0.238889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_flip.jpg,0,0.543045,0.449156,0.322610,0.251206
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_flip0.jpg,0,0.475031,0.462621,0.272978,0.226688
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_flip1.jpg,0,0.518842,0.551045,0.253983,0.246785
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_rot1.jpg,0,0.564510,0.541973,0.279341,0.314338
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_rot2.jpg,0,0.543045,0.444936,0.328125,0.271704
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\6_rot3.jpg,0,0.441921,0.453431,0.276929,0.318627
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7.jpg,0,0.649969,0.457998,0.368566,0.094453
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7.jpg,2,0.105392,0.729301,0.039216,0.090434
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_1.jpg,3,0.359110,0.653472,0.052966,0.109722
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_flip.jpg,0,0.364124,0.523915,0.350797,0.090434
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_flip.jpg,2,0.897212,0.266077,0.041360,0.069936
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_flip0.jpg,2,0.102635,0.263264,0.030025,0.068328
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_flip0.jpg,0,0.650123,0.530346,0.352941,0.067122
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_flip1.jpg,0,0.353094,0.470056,0.361826,0.087219
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_flip1.jpg,2,0.893076,0.730105,0.028799,0.074357
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_rot1.jpg,2,0.731913,0.891697,0.090032,0.045037
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_rot1.jpg,0,0.476688,0.357843,0.098875,0.356005
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_rot2.jpg,0,0.376685,0.521302,0.312806,0.060289
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_rot2.jpg,2,0.897978,0.271905,0.031250,0.069534
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_rot3.jpg,2,0.265675,0.101409,0.077170,0.030025
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\7_rot3.jpg,0,0.532958,0.627298,0.089228,0.318321
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\8.jpg,3,0.556066,0.422428,0.247549,0.428457
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\8_flip.jpg,3,0.435815,0.558481,0.246630,0.452170
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\8_flip0.jpg,3,0.560509,0.556069,0.234988,0.456190
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\8_flip1.jpg,3,0.428309,0.430265,0.259804,0.473875
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\8_rot1.jpg,3,0.429863,0.440104,0.469855,0.227635
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\8_rot2.jpg,3,0.429381,0.554863,0.260110,0.471463
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\8_rot3.jpg,3,0.575764,0.562347,0.438505,0.252145
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\9.jpg,3,0.451287,0.151326,0.396446,0.298633
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\9_flip.jpg,3,0.549479,0.839027,0.379596,0.301849
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\9_flip0.jpg,3,0.446998,0.841640,0.362132,0.304662
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\9_flip1.jpg,3,0.572610,0.153336,0.424632,0.299437
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\9_rot1.jpg,3,0.156350,0.549939,0.302251,0.381127
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\9_rot2.jpg,3,0.540135,0.841841,0.370711,0.308280
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\train\9_rot3.jpg,3,0.846865,0.446385,0.290193,0.372549
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\1.jpg,0,0.544118,0.458802,0.500613,0.682074
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\10.jpg,3,0.429381,0.493368,0.176777,0.555868
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\11.jpg,3,0.405637,0.219453,0.431373,0.385048
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\11_1.jpg,3,0.110699,0.937500,0.113347,0.113889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\12.jpg,3,0.862132,0.288786,0.158701,0.486736
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\12_1.jpg,0,0.631356,0.255556,0.144068,0.138889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\12_1.jpg,0,0.674788,0.474306,0.118644,0.106944
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13.jpg,3,0.801164,0.224678,0.055147,0.266881
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13_1.jpg,3,0.483051,0.421528,0.059322,0.204167
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13_1.jpg,0,0.466631,0.898611,0.051907,0.186111
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13_2.jpg,3,0.444915,0.553472,0.063559,0.151389
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13_3.jpg,0,0.530720,0.700000,0.059322,0.188889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13_3.jpg,0,0.637712,0.723611,0.112288,0.163889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13_4.jpg,0,0.442797,0.769444,0.008475,0.222222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\13_4.jpg,0,0.504767,0.886111,0.049788,0.227778
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\14.jpg,3,0.858609,0.767685,0.093444,0.264469
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\14_1.jpg,0,0.408369,0.744444,0.034958,0.211111
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\14_3.jpg,0,0.500530,0.772222,0.028602,0.058333
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\14_3.jpg,0,0.712394,0.581250,0.176907,0.076389
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\14_3.jpg,0,0.814619,0.668056,0.074153,0.077778
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\15.jpg,0,0.456342,0.453979,0.263787,0.104904
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\15_2.jpg,0,0.411017,0.128472,0.305085,0.248611
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\15_3.jpg,0,0.040254,0.413194,0.072034,0.315278
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\15_3.jpg,1,0.761123,0.179167,0.037076,0.050000
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\15_3.jpg,1,0.815148,0.222222,0.043432,0.047222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\16.jpg,0,0.721661,0.195740,0.412071,0.338424
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\17.jpg,0,0.532322,0.486535,0.200061,0.147508
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\17.jpg,3,0.810662,0.887862,0.086397,0.082797
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\17_3.jpg,0,0.036547,0.939583,0.062500,0.112500
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\18.jpg,0,0.534161,0.730707,0.430453,0.429260
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\18.jpg,0,0.742647,0.443931,0.436887,0.303457
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\19.jpg,0,0.567555,0.656551,0.374694,0.387058
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\19.jpg,2,0.175398,0.363746,0.054841,0.101286
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\19.jpg,2,0.458793,0.080989,0.031556,0.047026
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\19_1.jpg,0,0.620763,0.272222,0.150424,0.172222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\2.jpg,0,0.600490,0.667605,0.184436,0.172830
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\20.jpg,2,0.094363,0.589831,0.043505,0.052653
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\20.jpg,2,0.278339,0.321141,0.069547,0.049839
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\20.jpg,0,0.661918,0.616559,0.203125,0.484727
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\20_1.jpg,0,0.780720,0.719444,0.122881,0.308333
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\20_1.jpg,0,0.874470,0.902083,0.106992,0.187500
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\21.jpg,3,0.524050,0.700764,0.295037,0.296222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\21_1.jpg,0,0.849576,0.595833,0.065678,0.241667
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\21_2.jpg,0,0.697034,0.240972,0.105932,0.070833
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\22.jpg,3,0.488664,0.225884,0.325368,0.438907
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\22_1.jpg,0,0.744703,0.502778,0.076271,0.102778
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\22_1.jpg,0,0.805085,0.409722,0.095339,0.097222
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\22_2.jpg,0,0.693856,0.172222,0.042373,0.077778
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\23.jpg,3,0.549939,0.785169,0.404412,0.398312
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\23_1.jpg,0,0.683792,0.187500,0.083686,0.258333
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\23_2.jpg,0,0.812500,0.523611,0.076271,0.183333
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\24.jpg,3,0.890931,0.247789,0.097426,0.315514
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\25.jpg,0,0.321232,0.312098,0.227635,0.178859
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\26.jpg,0,0.337010,0.395900,0.158701,0.163183
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\26.jpg,0,0.562960,0.921624,0.290135,0.137460
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\3.jpg,0,0.336091,0.492765,0.243873,0.245177
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\3.jpg,0,0.559589,0.510852,0.279105,0.405145
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\3_1.jpg,0,0.234722,0.229630,0.382407,0.118519
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\3_1.jpg,0,0.351852,0.036111,0.374074,0.055556
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\3_2.jpg,0,0.618519,0.185648,0.220370,0.191667
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\3_2.jpg,0,0.668981,0.424537,0.162037,0.167593
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\4.jpg,0,0.560662,0.336214,0.197304,0.465836
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\4.jpg,0,0.747243,0.336214,0.138480,0.392685
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\4_3.jpg,0,0.241176,0.126471,0.258824,0.076471
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\5.jpg,0,0.849877,0.152934,0.287990,0.218248
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\5.jpg,0,0.736060,0.533762,0.461091,0.432476
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\5_1.jpg,3,0.370233,0.545139,0.060381,0.190278
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\5_2.jpg,3,0.355932,0.668750,0.076271,0.087500
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\6.jpg,0,0.484681,0.540193,0.273897,0.216238
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\6_2.jpg,3,0.396186,0.369444,0.042373,0.138889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\6_2.jpg,0,0.418432,0.880556,0.040254,0.238889
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\7.jpg,0,0.649969,0.457998,0.368566,0.094453
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\7.jpg,2,0.105392,0.729301,0.039216,0.090434
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\7_1.jpg,3,0.359110,0.653472,0.052966,0.109722
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\8.jpg,3,0.556066,0.422428,0.247549,0.428457
+C:\Users\admin\OneDrive\Desktop\ML projects\Engine defects\archive (1)\Aero-engine_defect-detect_new\images\val\9.jpg,3,0.451287,0.151326,0.396446,0.298633
