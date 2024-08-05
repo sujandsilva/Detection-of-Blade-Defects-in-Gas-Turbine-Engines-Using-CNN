@@ -5,19 +5,19 @@ This project aims to develop a machine learning model utilizing Convolutional Ne
 
 Project Overview
 
-Objective: To build a CNN model for accurately detecting defects in images of aero-engine components.
+Objective: To build a CNN model for accurately detecting defects in images of aero-engine components.                            
 Dataset: [Images of aero-engine parts with labeled defects, used for training and testing the model.](https://www.kaggle.com/datasets/wolfmedal/aero-engine-defect-new)
 
 Methodology:
 
 Data Preprocessing: Image normalization, augmentation, and splitting into training, validation, and test sets.              
-Model Architecture: Design and implementation of a CNN tailored for image classification tasks.
-Training: Using labeled data to train the CNN, optimizing for accuracy and robustness.
-Evaluation: Assessing model performance using metrics like accuracy, precision, recall, and F1-score.
+Model Architecture: Design and implementation of a CNN tailored for image classification tasks.                                
+Training: Using labeled data to train the CNN, optimizing for accuracy and robustness.                                             
+Evaluation: Assessing model performance using metrics like accuracy, precision, recall, and F1-score.                                  
 Deployment: Preparing the model for real-world application, including steps for inference and integration.
 
 Key Features:
 
-Automated Defect Detection: Reduces manual inspection efforts and speeds up the defect identification process.
-High Accuracy: Achieves reliable performance through advanced CNN architecture and thorough training.
+Automated Defect Detection: Reduces manual inspection efforts and speeds up the defect identification process.                    
+High Accuracy: Achieves reliable performance through advanced CNN architecture and thorough training.                           
 Scalability: Can be adapted to different types of aero-engine components and extended to other applications in the aerospace industry.
